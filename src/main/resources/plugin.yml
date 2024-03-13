@@ -1,0 +1,7 @@
+name: MBedwarsImprovements
+version: '${version}'
+main: me.wuzzyxy.mbedwarsimprovements.MBedwarsImprovements
+api-version: 1.19
+depend: [ MBedwars ]
+authors: [ WuzzyLV ]
+description: hooks into MBedwars to change the upgrades menu
